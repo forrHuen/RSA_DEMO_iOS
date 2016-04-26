@@ -2,7 +2,7 @@
 省略1万字，rsa加密测试
 
 # 创建证书及生产p12文件        shell 代码
-#!/usr/bin/env bash  
+ 
 echo "Generating RSA key pair ..."  
 echo "1024 RSA key: private_key.pem"  
 openssl genrsa -out private_key.pem 1024  
