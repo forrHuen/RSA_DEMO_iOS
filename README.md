@@ -1,5 +1,5 @@
 # RSA_DEMO_iOS
-省略1万字，rsa加密测试
+rsa加密测试
 
 # 创建证书及生产p12文件        shell 代码
  
